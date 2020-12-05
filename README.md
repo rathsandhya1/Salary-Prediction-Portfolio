@@ -47,7 +47,6 @@ Using Machine learning
 
 • Salary feature Variable
 
-[](url)
 
 -> From the boxplot and histogram, we see that most values lie between 70k to 130k
 
