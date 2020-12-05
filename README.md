@@ -119,7 +119,9 @@ GradientBoostingRegressor 362
 
 • Distribution plot
 
-image
+![image](https://user-images.githubusercontent.com/74996807/101258859-4fe08880-36f3-11eb-824c-8d580662f5e1.png)
+
+
 
 ->Distribution plot of actual value and predicted value.
 
