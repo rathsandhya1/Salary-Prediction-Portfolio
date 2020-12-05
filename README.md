@@ -61,6 +61,7 @@ Using Machine learning
 
 • Correlation Matrix
 
+![image](https://user-images.githubusercontent.com/74996807/101258541-1f97ea80-36f1-11eb-92ca-ef1bf16a4af6.png)
 
 
 ->The heat map shows that degree and major are highly correlated.
