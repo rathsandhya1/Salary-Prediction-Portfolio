@@ -46,6 +46,7 @@ Using Machine learning
 • Feature summary
 
 • Salary feature Variable
+![](images/https://github.com/rathsandhya1/Salary-Prediction-Portfolio%20spaces.png)
 
 
 -> From the boxplot and histogram, we see that most values lie between 70k to 130k
