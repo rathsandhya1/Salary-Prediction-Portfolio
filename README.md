@@ -103,7 +103,8 @@ Using Machine learning
 
 
 • Industry
-image
+![image](https://user-images.githubusercontent.com/74996807/101258814-fe37fe00-36f2-11eb-8b72-bf6b09915192.png)
+
 
 ->Oil and Finance pay the highest.
 ->Education industry seems to pay lowest
