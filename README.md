@@ -99,7 +99,9 @@ image
 • Develop
 
 Linear Regression 383
+
 Random Forest 376
+
 GradientBoostingRegressor 362
 
 • Distribution plot
