@@ -129,7 +129,7 @@ GradientBoostingRegressor 362
  
 Deploy
 
-image
+![image](https://user-images.githubusercontent.com/74996807/101258922-ab127b00-36f3-11eb-98c7-14b368cb1873.png)
 
 ->Create a csv file
 
