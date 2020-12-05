@@ -85,7 +85,7 @@ Using Machine learning
 
 ![image](https://user-images.githubusercontent.com/74996807/101258666-18bda780-36f2-11eb-8520-1163d20ecb02.png)
 
-image
+
 ->Peoples with majors such as engineering, business and math have higher salaries.
 
 ->No major peoples have less salaries.
