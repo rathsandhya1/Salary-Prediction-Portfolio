@@ -71,7 +71,9 @@ Using Machine learning
 
 • Job type
 
-image
+![image](https://user-images.githubusercontent.com/74996807/101258626-b5cc1080-36f1-11eb-9d3e-671a5fe47e1c.png)
+
+
 ->positive correlation between job Type and salary.
 
 ->Highest salaries are CEO, followed by CTO and CFO. The janitor’s salaries are lowest.
