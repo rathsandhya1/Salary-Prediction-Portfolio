@@ -49,7 +49,7 @@ Using Machine learning
 • Feature summary
 
 • Salary feature Variable
-![_](images/Salary_Prediction_portfolio)
+![image](https://user-images.githubusercontent.com/74996807/101258277-73093900-36ef-11eb-90f6-7fa3240d532d.png)
 
 
 
