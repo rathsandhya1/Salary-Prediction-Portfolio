@@ -49,6 +49,7 @@ Using Machine learning
 ![_](images/Salary_Prediction_portfolio)
 
 
+
 -> From the boxplot and histogram, we see that most values lie between 70k to 130k
 
 -> The salary histogram plot has right skewness
@@ -57,7 +58,7 @@ Using Machine learning
 
 • Correlation Matrix
 
-image
+![_](image/Salary_Prediction_Portfolio)
 
 ->The heat map shows that degree and major are highly correlated.
 
