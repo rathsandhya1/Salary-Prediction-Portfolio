@@ -1,10 +1,10 @@
 # Salary-Prediction-Portfolio
- Aim
+ #Aim
 
 The aim of this project is to make accurate salary predictions that are based on existing current salaries, this helps the company to recruit and retain top talent. This model will help the company for offering competitive pay to existing and future employees while also keeping payroll expenses in check.
 
 
-Technology/Libraries Use
+#Technology/Libraries Use
 
 Colab (Python 3)
 Pandas
@@ -14,7 +14,7 @@ Matplotlib
 Sklearn Packages
 
 
-Dataset Information
+#Dataset Information
 The data provided to us has been split in training and testing sets. The files included are training data (train_features_df), testing data (test_features_df) and a Target set (train_salaries_df) containing dependent salary feature.
 The dataset includes available features or labelled columns for analysis are as follows:
 Job ID/jobId: Given Job ID for the role
@@ -27,7 +27,7 @@ Years of Experience: Required Experience for the role
 Miles from Metropolis: Distance of the job location in miles from the nearest metropolitan city
 
 
-Discover Part
+#Discover Part
 
 Load Data
 Clean Data-To provide more structured look to clarify the hidden information and analysed data.
@@ -39,13 +39,16 @@ Exploratory Data Analysis- In-depth Data Analysis, including summary statistics 
 Identify correlation between all features by using label encoding.
 Using correlation matrix.
 Using Machine learning
+
 • Linear Regression-This model is used to show or predict the relationship between two variables or factors.
+
 • Random Forest-It is used for estimating missing data and maintains accuracy by reducing over fitting problem and shows it in decision trees.
+
 • GradientBoostingRegressor- It helps in producing a model in the form of weak prediction models of decision trees and which could improve the base line model.
 
-• Feature summary
+#• Feature summary
 
-• Salary feature Variable
+#• Salary feature Variable
 ![_](images/Salary_Prediction_portfolio)
 
 
@@ -56,7 +59,7 @@ Using Machine learning
 
 
 
-• Correlation Matrix
+#• Correlation Matrix
 
 ![_](image/Salary_Prediction_Portfolio)
 
@@ -65,7 +68,7 @@ Using Machine learning
 ->The salary is normally distributed.
 
 
-• Job type
+#• Job type
 
 image
 ->positive correlation between job Type and salary.
