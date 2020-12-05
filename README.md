@@ -92,7 +92,9 @@ Using Machine learning
 
 . Degree
 
-image
+![image](https://user-images.githubusercontent.com/74996807/101258763-9aadd080-36f2-11eb-9f2d-64c9f96106df.png)
+
+
 ->Masters and doctors correspond to having higher salaries.
 
 ->The high school and none peoples have less salaries.
