@@ -61,7 +61,7 @@ Using Machine learning
 
 • Correlation Matrix
 
-![_](image/Salary_Prediction_Portfolio)
+
 
 ->The heat map shows that degree and major are highly correlated.
 
