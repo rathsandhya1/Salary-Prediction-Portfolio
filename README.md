@@ -15,6 +15,8 @@ Sklearn Packages
 
 
 Dataset Information
+
+
 The data provided to us has been split in training and testing sets. The files included are training data (train_features_df), testing data (test_features_df) and a Target set (train_salaries_df) containing dependent salary feature.
 The dataset includes available features or labelled columns for analysis are as follows:
 Job ID/jobId: Given Job ID for the role
